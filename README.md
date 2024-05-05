@@ -1,4 +1,4 @@
-# Solution to Problem #345 of the Project Euler - Matrix Sum
+# Solution to Problem #345 of the Project Euler
 
 ```MiniZinc
 /*
