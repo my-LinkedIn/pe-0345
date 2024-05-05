@@ -221,6 +221,10 @@ sum = 13938
 Finished in 486msec.
 ```
 
+The solution is 13938.
+
+## References
+
 [Project Euler](https://projecteuler.net)
 
 [MiniZinc](https://www.minizinc.org)
