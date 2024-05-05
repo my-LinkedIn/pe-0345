@@ -1,5 +1,7 @@
 # Solution to Problem #345 of the Project Euler
 
+<p><img src="statement.png"></p>
+
 ```MiniZinc
 /*
  * Project Euler
