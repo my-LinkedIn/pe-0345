@@ -69,3 +69,5 @@ matrix = array2d(1..n, 1..n,
 [Project Euler](https://projecteuler.net)
 
 [MiniZinc](https://www.minizinc.org)
+
+[Gecode](https://www.gecode.org)
