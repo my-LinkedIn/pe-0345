@@ -6,6 +6,8 @@
 
 ## MiniZinc Source code
 
+This time **MiniZinc** a high-level `constraint modelling language` is used to solve the problem.
+
 ```MiniZinc
 /*
  * Project Euler
