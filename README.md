@@ -1,7 +1,10 @@
 # Solution to Problem #345 of the Project Euler
 
+## Problem statement
+
 <p><img src="statement.png"></p>
 
+## Source code
 ```MiniZinc
 /*
  * Project Euler
