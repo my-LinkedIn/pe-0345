@@ -4,7 +4,7 @@
 
 <p><img src="statement.png"></p>
 
-## Source code
+## MiniZinc Source code
 ```MiniZinc
 /*
  * Project Euler
