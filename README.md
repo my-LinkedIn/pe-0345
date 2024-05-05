@@ -5,6 +5,7 @@
 <p><img src="statement.png"></p>
 
 ## MiniZinc Source code
+
 ```MiniZinc
 /*
  * Project Euler
@@ -60,3 +61,9 @@ matrix = array2d(1..n, 1..n,
   ]
 );
 ```
+
+## References
+
+[Project Euler](https://projecteuler.net)
+
+[MiniZinc](https://www.minizinc.org)
