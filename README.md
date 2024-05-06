@@ -8,7 +8,7 @@
 
 This time **MiniZinc** a high-level `constraint modelling language` is used to solve the problem. Solver configuration: Gecode 6.3.0.
 
-With [D](https://dlang.org) and/or [Rust](https://www.rust-lang.org/) I preferably opt for [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming).
+My preference usually goes to [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming) with conventional programming.
 
 ```MiniZinc
 /*
@@ -232,3 +232,9 @@ The solution is 13938.
 [MiniZinc](https://www.minizinc.org)
 
 [Gecode](https://www.gecode.org)
+
+[D](https://dlang.org)
+
+[Rust](https://www.rust-lang.org)
+
+
