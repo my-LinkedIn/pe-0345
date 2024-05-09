@@ -8,7 +8,7 @@
 
 This time **MiniZinc** a high-level `constraint modelling language` is used to solve the problem. Solver configuration: Gecode 6.3.0.
 
-My preference usually goes to [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming) with conventional programming.
+My preference usually goes to [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming) with conventional programming language.
 
 ```MiniZinc
 /*
