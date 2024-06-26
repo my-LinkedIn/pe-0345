@@ -235,8 +235,8 @@ The solution is 13938.
 
 [Gecode](https://www.gecode.org)
 
-Alternative [solution](https://github.com/pe-solutions/pe-rustlang/tree/main/pe-0345) in [Rust](https://dlang.org)
+Alternative [solution](https://github.com/pe-solutions/pe-rustlang/tree/main/pe-0345) in [Rust](https://www.rust-lang.org)
 
-Alternative [solution](https://github.com/pe-solutions/pe-dlang/tree/main/pe-0345) in [D](https://www.rust-lang.org)
+Alternative [solution](https://github.com/pe-solutions/pe-dlang/tree/main/pe-0345) in [D](https://dlang.org)
 
 
