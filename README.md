@@ -2,7 +2,7 @@
 
 ## Problem statement
 
-<p><img src="statement.png"></p>
+<p><img src="assets/statement.png"></p>
 
 ## MiniZinc Source code
 
